@@ -41,5 +41,5 @@ Includes a built-in live testing script. It processes unseen text through the tr
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ardamiracseckin/English-News-Classification-DistilBERT.git](https://github.com/ardamiracseckin/English-News-Classification-DistilBERT.git)
-   cd English-News-Classification-DistilBERT
+   git clone [https://github.com/ardamiracseckin/English-News-Classification-DistilBERT.git](https://github.com/ardamiracseckin/English-News-Classification.git)
+   cd English-News-Classification
